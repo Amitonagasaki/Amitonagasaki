@@ -59,7 +59,8 @@
 </div>
 
 ###
-<h2 align="left">For Projects Works You Can Connect With Me</h2>
+<h2 align="left">Contacts</h2>
+<h4 align="left">For Projects Works You Can Connect With Me</h4>
 <div align="left">
   <a href="linkedin.com/in/amit-psd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
