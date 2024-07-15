@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/Kei_Shirogane_crying_CPP.png"  />
+  <img height="auto" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Kitagawa_Marin_Holding_C_Programming_Language.png"  />
 </div>
 
 ###
@@ -7,10 +7,18 @@
 <h2 align="left">Bonjour! Its Amit</h2>
 
 ###
+<ul>
+  <li><p align="left">Hi! its Amit Full-Stack Web Developer.</p></li>
+<li><p align="left">Started my journey into web development, majoring in frontend technologies, by being easily attracted to the visual gratification of creating user interfaces using HTML, CSS, and JavaScript..</p></li>
+<li><p align="left">Further down the line, there was the world of back-end development, in which I learned Node.js and Express for developing robust, highly scalable server-side applications.</p></li> 
+<li><p align="left">Now proficient in both frontend and backend, I develop full stack applications using React on the frontend and Nodejs ^ on the backend.</p></li>
+<li><p align="left">I am passionate about continuations in learning; hence, at this period in my life, I am finally checking out mobile app development to further diversify my skill set.</p></li>
+<li><p align="left">I also open to Freelancing Works especially Frontend Projects, So if interested you can connect me through   <a href="linkedin.com/in/amit-psd" target="_blank">
+    <img src="" alt="Linkedin "  />
+  </a> <a href="https://x.com/liundatus" target="_blank">
+    <img src="" alt="Twitter"  /></a> </p></li>  
+</ul>
 
-<p align="left">hi! its Amit , Full Stack Web Developer from India, at first my interest sparks in visual parts of website as i deep dive , came across learning backend side of web. My list of works mostly based on web.</p>
-
-###
 <h2 align="left">Tech Stacks</h2>
 
 <div align="left">
@@ -52,6 +60,7 @@
 </div>
 
 ###
+<h2 align="left">Github Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amitonagasaki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -60,7 +69,7 @@
 
 ###
 <h2 align="left">Contacts</h2>
-<h4 align="left">For Projects Works You Can Connect With Me</h4>
+<h5 align="left">For Projects Works You Can Connect With Me</h5>
 <div align="left">
   <a href="linkedin.com/in/amit-psd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
