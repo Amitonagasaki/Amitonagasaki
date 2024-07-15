@@ -76,7 +76,7 @@
 <h2 align="left">Contacts</h2>
 <h5 align="left">For Projects Works You Can Connect With Me</h5>
 <div align="left">
-  <a href="linkedin.com/in/amit-psd" target="_blank">
+  <a href="https://www.linkedin.com/in/amit-psd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/liundatus" target="_blank">
