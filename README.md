@@ -11,6 +11,7 @@
 <p align="left">hi! its Amit , Full Stack Web Developer from India, at first my interest sparks in visual parts of website as i deep dive , came across learning backend side of web. My list of works mostly based on web.</p>
 
 ###
+<h2 align="left">Tech Stacks</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -58,7 +59,7 @@
 </div>
 
 ###
-
+<h2 align="left">For Projects Works You Can Connect With Me</h2>
 <div align="left">
   <a href="linkedin.com/in/amit-psd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
