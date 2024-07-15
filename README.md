@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/Kei_Shirogane_crying_CPP.png"  />
 </div>
 
 ###
