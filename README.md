@@ -18,9 +18,9 @@
 <li><p align="left">Further down the line, there was the world of back-end development, in which I learned Node.js and Express for developing robust, highly scalable server-side applications.</p></li> 
 <li><p align="left">Now proficient in both frontend and backend, I develop full stack applications using React on the frontend and Nodejs ^ on the backend.</p></li>
 <li><p align="left">I am passionate about continuations in learning; hence, at this period in my life, I am finally checking out mobile app development to further diversify my skill set.</p></li>
-<li><p align="left">I also open to Freelancing Works especially Frontend Projects, So if interested you can connect me through   <a href="linkedin.com/in/amit-psd" target="_blank">
-    <img src="" alt="Linkedin "  />
-  </a> <a href="https://x.com/liundatus" target="_blank">
+<li><p align="left">I also open to Freelancing Works especially Frontend Projects, So if interested you can connect me through   <a target="_blank" href="https://www.linkedin.com/in/amit-psd" >
+    <img src="" alt="Linkedin "  /> </a>
+  <a href="https://x.com/liundatus" target="_blank">
     <img src="" alt="Twitter"  /></a> </p></li>  
 </ul>
 
@@ -76,10 +76,10 @@
 <h2 align="left">Contacts</h2>
 <h5 align="left">For Projects Works You Can Connect With Me</h5>
 <div align="left">
-  <a href="https://www.linkedin.com/in/amit-psd" target="_blank">
+  <a  target="_blank" href="https://www.linkedin.com/in/amit-psd">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/liundatus" target="_blank">
+  <a target="_blank" href="https://x.com/liundatus" >
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
